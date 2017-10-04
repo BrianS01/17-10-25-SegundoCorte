@@ -47,7 +47,7 @@ public class baseDatos extends HttpServlet
             } 
             catch (SQLException ex) 
             {
-                Logger.getLogger(BD.class.getName()).log(Level.SEVERE, null, ex);
+                Logger.getLogger(baseDatos.class.getName()).log(Level.SEVERE, null, ex);
             }
         }
     }
