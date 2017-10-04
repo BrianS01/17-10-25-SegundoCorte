@@ -10,6 +10,7 @@ package Conexion;
  *
  * @author BRIAN
  */
-public class baseDatos {
+public class baseDatos
+{
     
 }
