@@ -66,7 +66,7 @@ public class baseDatos extends HttpServlet
         try {
             processRequest(request, response);
         } catch (ClassNotFoundException ex) {
-            Logger.getLogger(BD.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(baseDatos.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 
