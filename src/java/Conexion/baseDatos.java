@@ -61,11 +61,14 @@ public class baseDatos extends HttpServlet
      * @throws IOException if an I/O error occurs
      */
     @Override
-    protected void doGet(HttpServletRequest request, HttpServletResponse response)
-            throws ServletException, IOException {
-        try {
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException
+    {
+        try 
+        {
             processRequest(request, response);
-        } catch (ClassNotFoundException ex) {
+        }
+        catch (ClassNotFoundException ex)
+        {
             Logger.getLogger(baseDatos.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
@@ -88,7 +91,7 @@ public class baseDatos extends HttpServlet
         }
         catch (ClassNotFoundException ex) 
         {
-            Logger.getLogger(BD.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(baseDatos.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 
