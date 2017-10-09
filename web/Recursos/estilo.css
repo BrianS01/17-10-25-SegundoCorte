@@ -251,13 +251,3 @@ input[type="submit"]:hover, input[type="button"]:hover
 
 
 
- /* Edicion del Select */
-label.custom-select 
-{
-    position: relative;
-    display: inline-block;
-
-}
-
-custom-select select 
-{
