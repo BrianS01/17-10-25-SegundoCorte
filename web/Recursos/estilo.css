@@ -286,14 +286,3 @@ custom-select:after
     background: #000;
     color: white;
     pointer-events: none;
-}
-
-no-pointer-events .custom-select:after 
-{
-    content: none;
-}
-
-
-
-
-
