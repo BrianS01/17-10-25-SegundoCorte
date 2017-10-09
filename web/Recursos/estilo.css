@@ -268,11 +268,3 @@ custom-select select
     outline:none;
     line-height: 1.2;
     background: #000;
-    color:white;
-    border:0;
-}
-
-/* Select arrow styling */
-custom-select:after 
-{
-    content: "▼";
