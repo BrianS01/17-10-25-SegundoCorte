@@ -180,12 +180,6 @@ input[type="text"], input[type="date"], input[type="datetime"],
 input[type="email"], input[type="number"],input[type="search"],
 input[type="time"],input[type="url"], textarea, select 
 {
-    font-family: Georgia, "Times New Roman", Times, serif;
-    background: rgba(255,255,255,.1);
-    border: none;
-    border-radius: 4px;
-    font-size: 16px;
-    margin: 0;
-    
+
         
     }
