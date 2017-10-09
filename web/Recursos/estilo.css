@@ -261,10 +261,3 @@ label.custom-select
 
 custom-select select 
 {
-    display: inline-block;
-    padding: 4px 3px 3px 5px;
-    margin: 0;
-    font: inherit;
-    outline:none;
-    line-height: 1.2;
-    background: #000;
