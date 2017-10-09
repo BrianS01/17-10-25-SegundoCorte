@@ -200,9 +200,3 @@ input[type="time"],input[type="url"], textarea, select
 }
 
 input:focus
-{
-    background: #d2d9dd;
-}
-
-select
-{
