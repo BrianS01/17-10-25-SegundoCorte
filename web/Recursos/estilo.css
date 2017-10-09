@@ -242,12 +242,3 @@ input[type="submit"], input[type="button"]
     margin-bottom: 10px;
 }
 
-input[type="submit"]:hover, input[type="button"]:hover
-{
-    background: #109177;
-}
-
-
-
-
-
