@@ -225,13 +225,3 @@ select
     border-radius: 15px 15px 15px 0px;
 }
 
-input[type="submit"], input[type="button"]
-{
-    position: relative;
-    display: block;
-    padding: 19px 39px 18px 39px;
-    color: #FFF;
-
-    margin-bottom: 10px;
-}
-
