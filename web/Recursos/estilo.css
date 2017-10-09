@@ -297,8 +297,3 @@ no-pointer-events .custom-select:after
 
 
 
-/*Estilo Contacto*/
-.contacto
-{ 
-   position: relative;
-   width: 100%; /* for IE 6 */
