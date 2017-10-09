@@ -170,16 +170,3 @@ legend
     margin-bottom: 10px;
 }
 
-label 
-{
-    display: block;
-    margin-bottom: 8px;
-}
-
-input[type="text"], input[type="date"], input[type="datetime"],
-input[type="email"], input[type="number"],input[type="search"],
-input[type="time"],input[type="url"], textarea, select 
-{
-
-        
-    }
