@@ -186,7 +186,6 @@ input[type="time"],input[type="url"], textarea, select
     border-radius: 4px;
     font-size: 16px;
     margin: 0;
-    outline: 0;
-    padding: 7px;
-    width: 100%;
-    box-sizing: border-box; 
+    
+        
+    }
