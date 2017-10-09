@@ -276,13 +276,3 @@ custom-select select
 custom-select:after 
 {
     content: "▼";
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    font-size: 60%;
-    line-height: 30px;
-    padding: 0 7px;
-    background: #000;
-    color: white;
-    pointer-events: none;
